@@ -8,7 +8,6 @@ def media(*listas):
 
 
 #p3
-#ainda iniciando o p3, as notas não foram lançadas
 c3 = []
 al1 = []
 series_edo = []

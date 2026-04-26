@@ -9,7 +9,7 @@ def media(*listas):
 
 #p3
 c3 = []
-al1 = []
+calculoavançado = []
 series_edo = []
 fg3 = []
 fcomp = []

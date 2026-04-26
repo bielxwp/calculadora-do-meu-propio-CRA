@@ -33,6 +33,6 @@ mtc = [9.3, 9.8, 7.8]
 qfnd = [10, 10, 8]
 
 
-resultado = media(c3,al1,series_edo,fg3,fcomp,pesq_apl,prob_estat,c2, fexp, fg2, ic, al, elem, c1, ga, fg1, mtc, qfnd)
+resultado = media(c3,calculoavançado,series_edo,fg3,fcomp,pesq_apl,prob_estat,c2, fexp, fg2, ic, al, elem, c1, ga, fg1, mtc, qfnd)
 
 print(f"o CRA é: {resultado:.2f}")
